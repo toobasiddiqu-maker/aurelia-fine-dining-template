@@ -4,7 +4,7 @@ A premium, sellable HTML website template for fine-dining restaurants in the USA
 Demo brand: **AURELIA — Mayfair & Manhattan** (fictional; replace with your own name, logo, photos and text).
 
 ## Live demo
-_GitHub Pages link will be added here once the repository is published._
+**https://toobasiddiqu-maker.github.io/aurelia-fine-dining-template/** — open it on desktop and mobile; try the menu tabs and the $ / £ toggle.
 
 ## What's inside
 - Full-screen hero with Reserve / View Menu calls to action
